@@ -1,1 +1,1 @@
-homepage hugo source files
+homepage hugo generated files
