@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://drpband.github.io/de/post/gig_1/</loc>
+    <lastmod>2020-01-10T10:58:08-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drpband.github.io/post/gig_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://drpband.github.io/de/post/gig_1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://drpband.github.io/de/</loc>
+    <lastmod>2020-01-10T10:58:08-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drpband.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://drpband.github.io/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://drpband.github.io/de/tags/gig/</loc>
+    <lastmod>2020-01-10T10:58:08-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drpband.github.io/tags/gig/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://drpband.github.io/de/tags/gig/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://drpband.github.io/de/post/</loc>
+    <lastmod>2020-01-10T10:58:08-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drpband.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://drpband.github.io/de/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://drpband.github.io/de/tags/</loc>
+    <lastmod>2020-01-10T10:58:08-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drpband.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://drpband.github.io/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://drpband.github.io/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drpband.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://drpband.github.io/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://drpband.github.io/de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drpband.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://drpband.github.io/de/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://drpband.github.io/de/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drpband.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://drpband.github.io/de/about/"
+                />
+  </url>
+  
+</urlset>

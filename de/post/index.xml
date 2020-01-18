@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neuigkeiten on Dr P and the Electric Mayhem</title>
+    <link>https://drpband.github.io/de/post/</link>
+    <description>Recent content in Neuigkeiten on Dr P and the Electric Mayhem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://drpband.github.io/de/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Der nächste Auftritt</title>
+      <link>https://drpband.github.io/de/post/gig_1/</link>
+      <pubDate>Fri, 10 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://drpband.github.io/de/post/gig_1/</guid>
+      <description>Hier wird der nächste Auftritt angekündigt.</description>
+    </item>
+    
+  </channel>
+</rss>
