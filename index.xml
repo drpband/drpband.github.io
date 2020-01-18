@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr P and the Electric Mayhem</title>
-    <link>https://drp.rocks/</link>
+    <link>https://drpband.github.io/</link>
     <description>Recent content on Dr P and the Electric Mayhem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jan 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://drp.rocks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drpband.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The great gig in the sky</title>
-      <link>https://drp.rocks/post/gig_1/</link>
+      <link>https://drpband.github.io/post/gig_1/</link>
       <pubDate>Fri, 10 Jan 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://drp.rocks/post/gig_1/</guid>
+      <guid>https://drpband.github.io/post/gig_1/</guid>
       <description>Announce the next gig here.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://drp.rocks/contact/</link>
+      <link>https://drpband.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://drp.rocks/contact/</guid>
+      <guid>https://drpband.github.io/contact/</guid>
       <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
 Your Name Email Address An email address is required.  Message   </description>
     </item>

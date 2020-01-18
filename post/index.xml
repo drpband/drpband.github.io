@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Dr P and the Electric Mayhem</title>
-    <link>https://drp.rocks/post/</link>
+    <link>https://drpband.github.io/post/</link>
     <description>Recent content in News on Dr P and the Electric Mayhem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jan 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://drp.rocks/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://drpband.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The great gig in the sky</title>
-      <link>https://drp.rocks/post/gig_1/</link>
+      <link>https://drpband.github.io/post/gig_1/</link>
       <pubDate>Fri, 10 Jan 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://drp.rocks/post/gig_1/</guid>
+      <guid>https://drpband.github.io/post/gig_1/</guid>
       <description>Announce the next gig here.</description>
     </item>
     
