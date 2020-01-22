@@ -1,58 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://drpband.github.io/</loc>
-    <lastmod>2020-01-10T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://drpband.github.io/tags/gig/</loc>
-    <lastmod>2020-01-10T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://drpband.github.io/post/gig-1/</loc>
-    <lastmod>2020-01-10T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://drpband.github.io/post/</loc>
-    <lastmod>2020-01-10T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://drpband.github.io/tags/</loc>
-    <lastmod>2020-01-10T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://drpband.github.io/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://drpband.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://drpband.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://drpband.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-01-21T10:58:08-04:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://drpband.github.io/de/sitemap.xml</loc>
+		
+	   	<lastmod>2020-01-21T10:58:08-04:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
