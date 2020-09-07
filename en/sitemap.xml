@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://drpband.github.io/</loc>
-    <lastmod>2020-01-21T10:58:08-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://drpband.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://drpband.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://drpband.github.io/tags/gig/</loc>
     <lastmod>2020-01-21T10:58:08-04:00</lastmod>
     <xhtml:link
@@ -44,6 +29,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://drpband.github.io/post/gig_1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://drpband.github.io/</loc>
+    <lastmod>2020-01-21T10:58:08-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://drpband.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://drpband.github.io/"
                 />
   </url>
   
